@@ -1,0 +1,1 @@
+{"data": [["SimpleCNN", "sea", "0.8277"], ["+BN+Dropout", "buildings", "0.4316"], ["+Data Augmentation", "buildings", "0.4431"], ["+Residual", "buildings", "0.6730"]], "headers": ["Model", "Predicted Class", "Confidence"], "metadata": null}
