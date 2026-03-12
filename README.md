@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 项目简介
-本项目以智能相册分类为背景，通过**从简单到复杂**的模块化演进，系统研究 Batch Normalization、Dropout、数据增强和残差连接对图像分类性能的影响。在 Intel Scene 数据集（6 类场景，约 2.5 万张图片）上，最终模型（简化 ResNet）达到 **86.00%** 的测试准确率，相比基线（SimpleCNN）提升 3.5%。项目包含完整的训练脚本、对比实验、消融分析、可视化工具以及 Gradio 交互式 Demo。
+本项目以智能相册分类为背景，通过**从简单到复杂**的模块化演进，系统研究 Batch Normalization、Dropout、数据增强和残差连接对图像分类性能的影响。在 Intel Scene 数据集（6 类场景，约 2.5 万张图片）上，最终模型（简化 ResNet）达到 **86.13%** 的测试准确率，相比基线（SimpleCNN）提升 3.6%。项目包含完整的训练脚本、对比实验、消融分析、可视化工具以及 Gradio 交互式 Demo。
 ### 项目结构
 ```bash
 .
